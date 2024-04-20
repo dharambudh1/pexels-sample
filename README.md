@@ -1,16 +1,19 @@
-# pexels_sample
+# Pexels Sample
 
-A new Flutter project.
+## Information
+This is a demonstration app showcasing the versatile cross-platform capabilities of Flutter. Within this application, I've integrated an API from Pexels, a renowned provider of stock photography and footage.
 
-## Getting Started
+Operating seamlessly across Android, iOS, Web, and Windows OS, this app offers broad accessibility. Unfortunately, due to the absence of a Macbook, I couldn't conduct tests on iOS. Nevertheless, leveraging my expertise in iOS development with Flutter, I anticipate smooth functionality.
 
-This project is a starting point for a Flutter application.
+## Features
+- Adaptive and responsive design, observable particularly on Web and Windows OS platforms.
+- Engaging animations, including Hero Animation, enhancing the transition between screens.
+- Dynamic elements like animated scale, opacity, colorful gradients, and possibly marquee texts. Some features are tailored specifically for Web and Windows OS to accommodate cursor interactions.
 
-A few resources to get you started if this is your first Flutter project:
+## Important Links:
+- Android App (APK Link): https://drive.google.com/file/d/1SgtdQnpg9q5j673_lMzQeKkE7XJ-hRmR/view?usp=sharing
+- Web App (Hosted on Firebase Hosting): https://pexels-sample-66475.web.app
+- Windows OS (MSI Installer): https://drive.google.com/file/d/1lYCUtKr0Vku40DbKZs7ZhqcdA0iVxflN/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/CxYsk4bq/Screenshot-409.png "img")
