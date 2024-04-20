@@ -16,4 +16,4 @@ Operating seamlessly across Android, iOS, Web, and Windows OS, this app offers b
 - Windows OS (MSI Installer): https://drive.google.com/file/d/1lYCUtKr0Vku40DbKZs7ZhqcdA0iVxflN/view?usp=sharing
 
 ## Preview
-![alt text](https://i.postimg.cc/CxYsk4bq/Screenshot-409.png "img")
+![alt text](https://i.postimg.cc/CxYsk4bq/Screenshot-406.png "img")
